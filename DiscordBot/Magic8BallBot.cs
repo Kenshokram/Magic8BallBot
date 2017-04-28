@@ -12,8 +12,6 @@ namespace DiscordBot
 
         public Magic8BallBot()
         {
-
-            
             client = new DiscordClient(input =>
             {
                 input.LogLevel = LogSeverity.Info;
@@ -32,9 +30,16 @@ namespace DiscordBot
             commands.CreateCommand("#")
                 .Parameter("user", ParameterType.Unparsed)
                 .Do(async (e) =>
-            {
-                await (e.Channel.SendMessage(getResponse(e.User.Name, getRand())));
-            });
+                {
+                    await (e.Channel.SendMessage(getResponse(e.User.Name, getRand())));
+                });
+
+            commands.CreateCommand("Exit")
+                .Do(async (e) =>
+                {
+                    await (e.Channel.SendMessage("Shuting Down Now.. "));
+                    Environment.Exit(0);
+                });
 
             client.ExecuteAndWait(async () =>
             {
@@ -101,6 +106,5 @@ namespace DiscordBot
                     return "Something went horribly wrong... please re-check the code";
             }
         }
-
     }
 }
