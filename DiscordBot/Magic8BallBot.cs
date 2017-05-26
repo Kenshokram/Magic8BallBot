@@ -28,17 +28,10 @@ namespace DiscordBot
 
             // Commands
             commands.CreateCommand("#")
-                .Parameter("user", ParameterType.Unparsed)
+                .Parameter("question", ParameterType.Unparsed)
                 .Do(async (e) =>
                 {
                     await (e.Channel.SendMessage(getResponse(e.User.Name, getRand())));
-                });
-
-            commands.CreateCommand("Exit")
-                .Do(async (e) =>
-                {
-                    await (e.Channel.SendMessage("Shuting Down Now.. "));
-                    Environment.Exit(0);
                 });
 
             client.ExecuteAndWait(async () =>

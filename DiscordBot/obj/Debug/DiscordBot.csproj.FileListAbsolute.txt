@@ -36,3 +36,22 @@ C:\Users\jesse.derochie\Desktop\DiscordBot\Magic8BallBot\DiscordBot\bin\Debug\Ni
 C:\Users\jesse.derochie\Desktop\DiscordBot\Magic8BallBot\DiscordBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
 C:\Users\jesse.derochie\Desktop\DiscordBot\Magic8BallBot\DiscordBot\bin\Debug\RestSharp.xml
 C:\Users\jesse.derochie\Desktop\DiscordBot\Magic8BallBot\DiscordBot\obj\Debug\DiscordBot.csprojResolveAssemblyReference.cache
+C:\Users\Jesse Derochie\__Discord_Bots\Magic8BallBot\DiscordBot\bin\Debug\DiscordBot.exe.config
+C:\Users\Jesse Derochie\__Discord_Bots\Magic8BallBot\DiscordBot\bin\Debug\DiscordBot.exe
+C:\Users\Jesse Derochie\__Discord_Bots\Magic8BallBot\DiscordBot\bin\Debug\DiscordBot.pdb
+C:\Users\Jesse Derochie\__Discord_Bots\Magic8BallBot\DiscordBot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Jesse Derochie\__Discord_Bots\Magic8BallBot\DiscordBot\bin\Debug\Discord.Net.dll
+C:\Users\Jesse Derochie\__Discord_Bots\Magic8BallBot\DiscordBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jesse Derochie\__Discord_Bots\Magic8BallBot\DiscordBot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\Jesse Derochie\__Discord_Bots\Magic8BallBot\DiscordBot\bin\Debug\Nito.AsyncEx.dll
+C:\Users\Jesse Derochie\__Discord_Bots\Magic8BallBot\DiscordBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\Jesse Derochie\__Discord_Bots\Magic8BallBot\DiscordBot\bin\Debug\RestSharp.dll
+C:\Users\Jesse Derochie\__Discord_Bots\Magic8BallBot\DiscordBot\bin\Debug\WebSocket4Net.dll
+C:\Users\Jesse Derochie\__Discord_Bots\Magic8BallBot\DiscordBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jesse Derochie\__Discord_Bots\Magic8BallBot\DiscordBot\bin\Debug\Nito.AsyncEx.xml
+C:\Users\Jesse Derochie\__Discord_Bots\Magic8BallBot\DiscordBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\Jesse Derochie\__Discord_Bots\Magic8BallBot\DiscordBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\Jesse Derochie\__Discord_Bots\Magic8BallBot\DiscordBot\bin\Debug\RestSharp.xml
+C:\Users\Jesse Derochie\__Discord_Bots\Magic8BallBot\DiscordBot\obj\Debug\DiscordBot.csprojResolveAssemblyReference.cache
+C:\Users\Jesse Derochie\__Discord_Bots\Magic8BallBot\DiscordBot\obj\Debug\DiscordBot.exe
+C:\Users\Jesse Derochie\__Discord_Bots\Magic8BallBot\DiscordBot\obj\Debug\DiscordBot.pdb
