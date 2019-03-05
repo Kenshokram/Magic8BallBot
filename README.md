@@ -6,4 +6,4 @@
 <h2>Commands</h2>
 
 <h3>?#</h3>
-<i>Follow this command with a yes or no question to receive an answer from the Magic 8 Ball</i>
+<i>Follow this command with a yes or no question to receive an answer from the Magic 8 Ball </i>
